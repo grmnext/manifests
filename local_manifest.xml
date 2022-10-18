@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="github" 
+  <remote  name="mygithub" 
            fetch="https://github.com/"
            revision="cm-14.1" />
 
-  <project name="grmnext/android_device_samsung_mygrouper" path="device/samsung/grouper" remote="github" />
-  <project name="grmnext/android_kernel_samsung_mygrouper" path="kernel/samsung/grouper" remote="github" />
+  <project name="grmnext/android_device_samsung_mygrouper" path="device/samsung/grouper" remote="mygithub" />
+  <project name="grmnext/android_kernel_samsung_mygrouper" path="kernel/samsung/grouper" remote="mygithub" />
+  <project name="TheMuppets/proprietary_vendor_asus" path="vendor/samsung" remote="mygithub" />  
 
 </manifest>
