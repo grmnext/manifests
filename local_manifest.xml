@@ -5,8 +5,8 @@
            fetch="https://github.com/"
            revision="cm-14.1" />
 
-  <project name="grmnext/android_device_samsung_mygrouper" path="device/samsung/grouper" remote="mygithub" />
-  <project name="grmnext/android_kernel_samsung_mygrouper" path="kernel/samsung/grouper" remote="mygithub" />
-  <project name="TheMuppets/proprietary_vendor_asus" path="vendor/samsung" remote="mygithub" />  
+  <project name="grmnext/android_device_samsung_mygrouper" path="device/asus/grouper" remote="mygithub" />
+  <project name="grmnext/android_kernel_samsung_mygrouper" path="kernel/asus/grouper" remote="mygithub" />
+  <project name="TheMuppets/proprietary_vendor_asus" path="vendor/asus" remote="mygithub" />  
 
 </manifest>
